@@ -22,11 +22,11 @@ The deployment will be releasing soon, in GitHub Page.
 
 * **Prasit Tongpradit** - *Initial work* - [EpicHigh](https://github.com/EpicHigh)
 
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/EpicHigh/user-generator-app-redux/graphs/contributors) who participated in this project.
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE) file for details
 
 ## Acknowledgments
 
