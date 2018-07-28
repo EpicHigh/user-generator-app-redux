@@ -9,7 +9,7 @@ This project was bootstrapped with Create React App. You are not any prerequisit
 
 ## Deployment
 
-The deployment will be releasing soon, in GitHub Page.
+This project was deployed, Pleases visit this [link](https://epichigh.github.io/user-generator-app-redux/).
 
 ## Built With
 
